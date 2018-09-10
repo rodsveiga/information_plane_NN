@@ -1,1 +1,3 @@
-# Information_plane_NN
+# Neural Networks, Information Plane and Early Stopping
+
+Beginning.
