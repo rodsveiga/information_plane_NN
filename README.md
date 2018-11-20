@@ -1,3 +1,3 @@
 # Neural Networks, Information Plane and Early Stopping
 
-Beginning.
+Beginning. Based on (https://github.com/artemyk/ibsgd).
